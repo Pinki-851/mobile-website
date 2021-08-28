@@ -15,7 +15,6 @@ const AutoCarousel = (props) => {
   }, [autoCarouselActiveIndex]);
 
   const nextSlide = () => {
-    console.log(autoCarouselActiveIndex);
     setAutoCarouselActiveIndex(
       autoCarouselActiveIndex === length - 1 ? 0 : autoCarouselActiveIndex + 1
     );
