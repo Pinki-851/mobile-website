@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mobile-website/static/css/main.697b6710.chunk.css",
+    "main.js": "/mobile-website/static/js/main.ec1afb6d.chunk.js",
+    "main.js.map": "/mobile-website/static/js/main.ec1afb6d.chunk.js.map",
+    "runtime-main.js": "/mobile-website/static/js/runtime-main.43d92cf9.js",
+    "runtime-main.js.map": "/mobile-website/static/js/runtime-main.43d92cf9.js.map",
+    "static/js/2.a4497e4a.chunk.js": "/mobile-website/static/js/2.a4497e4a.chunk.js",
+    "static/js/2.a4497e4a.chunk.js.map": "/mobile-website/static/js/2.a4497e4a.chunk.js.map",
+    "index.html": "/mobile-website/index.html",
+    "static/css/main.697b6710.chunk.css.map": "/mobile-website/static/css/main.697b6710.chunk.css.map",
+    "static/js/2.a4497e4a.chunk.js.LICENSE.txt": "/mobile-website/static/js/2.a4497e4a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mobile-website/static/media/HelveticaNeue-Regular.f0cf2111.otf",
+    "static/media/allInBundle.19913629.png": "/mobile-website/static/media/allInBundle.19913629.png",
+    "static/media/autocarousel1.f7d708ee.jpg": "/mobile-website/static/media/autocarousel1.f7d708ee.jpg",
+    "static/media/autocarousel2.e613051a.jpg": "/mobile-website/static/media/autocarousel2.e613051a.jpg",
+    "static/media/autocarousel3.0773052a.jpg": "/mobile-website/static/media/autocarousel3.0773052a.jpg",
+    "static/media/autocarousel4.0bcbecbf.jpg": "/mobile-website/static/media/autocarousel4.0bcbecbf.jpg",
+    "static/media/bandBlack.f6ed9c2d.png": "/mobile-website/static/media/bandBlack.f6ed9c2d.png",
+    "static/media/buds.24e8bf25.png": "/mobile-website/static/media/buds.24e8bf25.png",
+    "static/media/chargerImg.29211600.png": "/mobile-website/static/media/chargerImg.29211600.png",
+    "static/media/one-plus1.ef54b406.png": "/mobile-website/static/media/one-plus1.ef54b406.png",
+    "static/media/one-plus2.435153bd.png": "/mobile-website/static/media/one-plus2.435153bd.png",
+    "static/media/one-plus3.7be9edc5.png": "/mobile-website/static/media/one-plus3.7be9edc5.png",
+    "static/media/one-plus4.96bee617.png": "/mobile-website/static/media/one-plus4.96bee617.png",
+    "static/media/phone.55a231e5.png": "/mobile-website/static/media/phone.55a231e5.png",
+    "static/media/quantumBumper.7c308d48.png": "/mobile-website/static/media/quantumBumper.7c308d48.png",
+    "static/media/securityImg.0ad79c76.png": "/mobile-website/static/media/securityImg.0ad79c76.png",
+    "static/media/wrapChargerImg.6906feb5.png": "/mobile-website/static/media/wrapChargerImg.6906feb5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d92cf9.js",
+    "static/js/2.a4497e4a.chunk.js",
+    "static/css/main.697b6710.chunk.css",
+    "static/js/main.ec1afb6d.chunk.js"
+  ]
+}
