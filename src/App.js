@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <Provider store={store}>
-        <Router base="/">
+        <Router>
           <Switch>
             <Route exact path="/" component={Product} />
             <Route exact path="/productdetail" component={ProductView} />
